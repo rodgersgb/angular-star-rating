@@ -15,11 +15,11 @@ export class RatingService {
 
     fetchRatings(): Observable<RatingStats> {
         return of({
-            five: getRandomInt(50),
-            four: getRandomInt(40),
-            three: getRandomInt(30),
-            two: getRandomInt(20),
-            one: getRandomInt(10),
+            five: 50,
+            four: 40,
+            three: 30,
+            two: 20,
+            one: 10,
         });
     }
 }
