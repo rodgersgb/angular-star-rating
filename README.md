@@ -1,7 +1,6 @@
 # angular-star-rating
 
-Build a star rating component
-In this challenge, you’ll build a star rating angular component that displays the various star ratings of a product. The component should render the total average star rating for a product and include the percentage of ratings per star. See image below for an example design.
+Build a star rating component: In this challenge, you’ll build a star rating angular component that displays the various star ratings of a product. The component should render the total average star rating for a product and include the percentage of ratings per star. See image below for an example design.
 
 Requirements:
 - Display the avergage rating for the product (x.x of 5) that include the numberical average (to one decimal point) out of a total of 5 stars.
